@@ -1,0 +1,12 @@
+{
+  "name": "pull-timeout2",
+  "description": "abort a pull-stream if the rate of flow drops below the specified threshold.",
+  "version": "0.0.2",
+  "main": "index.js",
+  "dependencies": {
+    "pull-stream": "^3.6.2",
+    "pull-through": "^1.0.18",
+    "pull-abortable": "^4.1.1"
+  },
+  "devDependencies": {}
+}
